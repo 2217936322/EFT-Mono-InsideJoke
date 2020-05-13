@@ -50,3 +50,6 @@ this code is still trashy im realising it cause im not gonna use it cause of det
 ### Disclaimer
  If you gonna use any of this code include me in your readme with link to this repo, Thanks. 
  Its not meant to be sell to anyone.
+
+## preview
+![Cheat preview](https://github.com/B74nk/EFT-Mono-InsideJoke/blob/master/preview.png)
